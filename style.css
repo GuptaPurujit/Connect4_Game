@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-weight: bold;
+}
+
+table {
+    margin:auto;
+
+}
+
+td {
+    padding: 40px;
+    border-collapse: collapse;
+    border: 2px solid black;
+    border-radius: 100%;
+    background: grey;
+}
